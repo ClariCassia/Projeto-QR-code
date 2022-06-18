@@ -1,25 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
-:root{
+:root {
     --cor-destaque: hsl(218, 44%, 22%);
 }
 
-body{
-    background-color: hsl(212, 45%, 89%);   
-    font-family: 'Outfit'; 
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit';
     font-size: 15px;
     font-weight: 400;
 }
 
-main{
+main {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;    
+    height: 100vh;
     flex-direction: column;
 }
 
-.conteiner{
+.conteiner {
     max-width: 322px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 18px;
@@ -27,28 +27,28 @@ main{
     text-align: center;
 }
 
-.conteiner img{
+.conteiner img {
     width: 100%;
     border-radius: 10px;
 }
 
-h2{
+h2 {
     color: var(--cor-destaque);
     padding: 15px;
     font-weight: 700;
-    font-size: 22px;   
+    font-size: 22px;
 }
 
-p{
+p {
     color: hsl(220, 15%, 55%);
-    padding: 12px;  
-    }
+    padding: 12px;
+}
 
-.attribution{
+.attribution {
     margin-top: 10vh;
 }
 
-.attribution a:hover{
+.attribution a:hover {
     font-weight: bold;
     color: var(--cor-destaque);
 }
