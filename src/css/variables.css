@@ -1,0 +1,6 @@
+:root {
+    --body-color: hsl(345, 100%, 98%);
+    --container-color: hsl(0, 0%, 100%);    
+    --text-color: hsl(220, 15%, 55%);
+    --shadow-effect:rgba(0, 0, 0, 0.2);
+}
