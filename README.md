@@ -5,7 +5,7 @@ O projeto consiste na criação de uma página da web simples usando as tecnolog
 
 <br>
 
-  <img src="src/images/qr-code-generator.gif" alt="gif-projeto">
+   <img src="src/images/qr-code-generator.gif" alt="gif-projeto">
 
 <br>
 
@@ -18,7 +18,7 @@ O projeto consiste na criação de uma página da web simples usando as tecnolog
 
 
 ## O que eu aprendi
-Neste projeto, aprimorei os conhecimentos no uso de tags semânticas,estilizações e o uso de display flex. Com uso de Javascript pude colocar a lógica em prática, com o uso do setTimeout  e  com funções construidas para as funcionalidades interativas.
+Neste projeto, aprimorei os conhecimentos no uso de tags semânticas,estilizações e o uso de display flex. Com uso de Javascript pude colocar a lógica em prática, com o uso do setTimeout  e  com funções construidas para as funcionalidades interativas e tambem validação caso o campo esteja vazio.
 
 ## Acesso a página
 
